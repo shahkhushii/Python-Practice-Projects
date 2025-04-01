@@ -1,4 +1,4 @@
-# Python Practice Projects for Data Analysts
+# Python Practice Projects 
 
 Welcome to the repository dedicated to small Python practice projects for aspiring Data Analysts! This repo contains a variety of Python-based projects that focus on different aspects of data analysis, from data cleaning and visualization to simple machine learning tasks. The goal is to provide hands-on experience and deepen your understanding of Python in the context of data analysis.
 
